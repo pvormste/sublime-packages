@@ -1,0 +1,11 @@
+[
+	{ "keys": ["ctrl+7"], "command": "toggle_comment", "args": { "block": false } },
+	{ "keys": ["ctrl+shift+7"], "command": "toggle_comment", "args": { "block": true } },
+
+	{ "keys": ["alt+f9"], "command": "sort_lines", "args": {"case_sensitive": false} },
+	{ "keys": ["ctrl+alt+f9"], "command": "sort_lines", "args": {"case_sensitive": true} },
+	
+	{ "keys": ["f9"], "command": "expand_fqcn" },
+	{ "keys": ["f10"], "command": "find_use" },
+	{ "keys": ["f8"], "command": "insert_php_constructor_property" }
+]
