@@ -7,12 +7,15 @@
 	[
 		"AdvancedNewFile",
 		"Colorsublime",
+		"Laravel 5 Artisan",
 		"Material Theme",
 		"Origami",
 		"Package Control",
 		"PackageResourceViewer",
 		"PHP Companion",
 		"PHP Getters and Setters",
-		"phpunitkit"
+		"phpunitkit",
+		"SublimeLinter",
+		"SublimeLinter-php"
 	]
 }
