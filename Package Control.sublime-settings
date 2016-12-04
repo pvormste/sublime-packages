@@ -5,6 +5,7 @@
 	],
 	"installed_packages":
 	[
+		"AdvancedNewFile",
 		"Colorsublime",
 		"Material Theme",
 		"Package Control",
