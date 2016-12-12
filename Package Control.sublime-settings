@@ -6,6 +6,8 @@
 	"installed_packages":
 	[
 		"AdvancedNewFile",
+		"Bootstrap 3 Autocomplete",
+		"Bootstrap 3 Snippets",
 		"Colorsublime",
 		"Laravel 5 Artisan",
 		"Laravel Blade Highlighter",
