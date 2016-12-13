@@ -1,3 +1,4 @@
 {
-	"terminal": "D:\\Anwendungen\\cmder_mini\\Cmder.exe"
+	"terminal": "D:\\Anwendungen\\cmder_mini\\Cmder.exe",
+	"parameters": ["/START", "%CWD%"]
 }
